@@ -1,4 +1,4 @@
-# Space-weather-data-visualization
+# Space weather data visualization project
 ## **Data Visualization & Exploration - Final Assignment**  
 
 This repository showcases my final assignment for the university course **"Data Visualization & Exploration"** at UniBZ. The project explores the **Sun as the primary driver of space weather**, with a particular focus on **sunspots and solar flares**.  
