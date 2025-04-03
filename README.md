@@ -19,3 +19,4 @@ The project begins with **data loading and cleaning**, followed by an in-depth f
 
 By leveraging visual analysis, this project aims to provide insights into the patterns and behavior of solar activity.
 
+The project was entirely made in Rstudio.
